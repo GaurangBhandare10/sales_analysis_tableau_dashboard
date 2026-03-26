@@ -1,4 +1,4 @@
-# Sales & Customer Dashboards (Dynamic)
+# Sales & Customer Dashboards
 
 A Tableau workbook providing interactive, year-over-year analysis of sales performance and customer behavior. The dashboards are built around a dynamic year parameter so stakeholders can instantly compare any year against the prior year without modifying the workbook.
 
